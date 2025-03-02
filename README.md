@@ -1,4 +1,4 @@
-# MonkeDeck Plugin for Decky! (Still just a template for now
+# MonkeDeck Plugin for Decky! (Still just a template for now)
 
 Reference example for using [decky-frontend-lib](https://github.com/SteamDeckHomebrew/decky-frontend-lib) (@decky/ui) in a [decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin.
 
